@@ -1,7 +1,7 @@
 # 💫 About Me:
 - 🔭 Atualmente estou trabalhando na *Raj Tecnologia*, como desenvolvedor FullStack PHP.<br>- 🎸 No meu tempo livre gosto de tocar Instrumentos.<br>- 🤝 Sou voluntário em projetos *front-end*.<br>- 🌱 Atualmente estou aprendendo sobre *React*.<br>- ⚡ Um fato esquisito: costumo sonhar com *códigos*.
 
-<figure><embed src="https://wakatime.com/share/@joao_gdhora/5c3b3d79-971e-4568-82d8-6bfbad48acf9.svg"></embed></figure>
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@joao_gdhora/da14fdf9-c8c0-41fc-a79f-76d4071a6d04.png" /></a>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/joao_gdhora) 
